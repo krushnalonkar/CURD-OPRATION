@@ -1,7 +1,7 @@
 {
   "name": "curd-app",
   "version": "0.1.0",
-  "homepage": "https://krushnalonkar.github.io/CURD-OPRATION",
+  "homepage": "https://krushnalonkar.github.io/CURD-OPRATION/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
